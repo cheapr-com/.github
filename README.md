@@ -1,2 +1,1 @@
-# .github
-Cheapr GitHub Organization
+Welcome to Cheapr.com GitHub! 
