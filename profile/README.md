@@ -1,1 +1,1 @@
-# Cheapr.com
+# Cheapr GitHub
