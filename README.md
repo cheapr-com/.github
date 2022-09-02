@@ -1,1 +1,3 @@
-Welcome to Cheapr.com GitHub! 
+# .github
+
+Cheapr Organization Repository
